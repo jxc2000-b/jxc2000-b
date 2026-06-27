@@ -5,12 +5,12 @@
   srcset="https://flagcdn.com/w40/us.png 2x"
   width="20"
   alt="United States">
-
 </div>
 
+---
 
 <div align="center">
-
+## 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,go,swift,postgres,pnpm,cloudflare,supabase,kubernetes,vim,docker,bash)](https://skillicons.dev)
 
 </div>
