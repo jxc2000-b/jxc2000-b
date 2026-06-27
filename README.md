@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-## 
+
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,go,swift,postgres,pnpm,cloudflare,supabase,kubernetes,vim,docker,bash)](https://skillicons.dev)
 
 </div>
