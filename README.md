@@ -17,9 +17,12 @@ Into Technology
 
 </div>
 
-## Powered By These
+
+## Powered by these
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=postgres,kubernetes,docker,git,pnpm,cloudflare,supabase)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,pnpm,cloudflare,supabase,kubernetes,vim,docker,)](https://skillicons.dev)
+
 </div>
 
 
