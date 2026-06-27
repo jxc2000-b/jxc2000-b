@@ -24,5 +24,10 @@ Into Technology
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jxc2000-b/jxc2000-b/output/github-snake-tokyo.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jxc2000-b/jxc2000-b/output/github-snake-tokyo.svg" />
+</picture>
 
+</div>
 
