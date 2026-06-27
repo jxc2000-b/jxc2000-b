@@ -14,7 +14,7 @@ Into Technology
 ## I Mostly Use These 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,go,swift)](https://skillicons.dev)
 
 </div>
 
