@@ -1,7 +1,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=FFFFF&center=true&vCenter=true&width=720&height=64&lines=TEST" alt="" />
 
-<img src="https://flagcdn.com/w40/tw.png" height="16" alt="" />
+<img
+  src="https://flagcdn.com/w20/us.png"
+  srcset="https://flagcdn.com/w40/us.png 2x"
+  width="20"
+  alt="United States">
 <p>
+  
 Into Technology
 </p>
 
