@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=FFFFF&center=true&vCenter=true&width=720&height=64&lines=UNDER-CONSTRUCTION" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=FFFFF&center=true&vCenter=true&width=720&height=64&lines=UNDER-🚧🧱🏗️" alt="" />
 
 <img
   src="https://flagcdn.com/w20/us.png"
