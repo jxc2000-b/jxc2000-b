@@ -8,20 +8,13 @@
 
 </div>
 
-## I write in these
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,go,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,go,swift,postgres,pnpm,cloudflare,supabase,kubernetes,vim,docker,bash)](https://skillicons.dev)
 
 </div>
 
-
-## Powered by these
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,pnpm,cloudflare,supabase,kubernetes,vim,docker,bash)](https://skillicons.dev)
-
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jxc2000-b/jxc2000-b/output/github-contribution-grid-snake-dark.svg" />
