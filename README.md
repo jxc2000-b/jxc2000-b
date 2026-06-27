@@ -8,7 +8,7 @@
 
 </div>
 
-## I Mostly Use These 
+## I write in these
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,go,swift)](https://skillicons.dev)
@@ -19,7 +19,7 @@
 ## Powered by these
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,pnpm,cloudflare,supabase,kubernetes,vim,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,pnpm,cloudflare,supabase,kubernetes,vim,docker,bash)](https://skillicons.dev)
 
 </div>
 
