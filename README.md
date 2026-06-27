@@ -5,10 +5,7 @@
   srcset="https://flagcdn.com/w40/us.png 2x"
   width="20"
   alt="United States">
-<p>
-  
-Into Technology
-</p>
+
 </div>
 
 ## I Mostly Use These 
