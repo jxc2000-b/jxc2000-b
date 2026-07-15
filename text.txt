@@ -1,0 +1,23 @@
+jxc2000-b@github
+Status: running (stable)
+OS: macOS 26.3.1(a), ubuntu 26.04 LTS
+Kernel: darwin kernel version 25.3.0
+IDE: vim, vscode 1.280.0
+Agents: claude code 2.1.210, hermes agent v0.18.2 
+
+Dev.Programming: go, python, typeScript, swift, bash, C
+Dev.Frameworks: react.js, prisma, next.js, SQL
+Dev.Tooling: k8s, Prisma, wrangler, AWS
+
+Hobbies.Software: blogging, IOS apps
+Hobbies.Hardware: homelabbing, pharmacology
+Interests.Real: spaceflight, longevity, giorgio de chirico
+
+- Contact
+Email.Personal: bismuth-bungees.8d@icloud.com
+PGP: xjMEalgL9hYJKwYBBAHaRw8BAQdAJnYDO3trCUqGf7cdORAo/bNZRRz...
+
+- GitHub Stats
+repos: .... 46 {Contributed: 47} | pull_requests: ......8
+commits: .................. 2,116 | issues:............ 23
+loc_net: -248237 ( 472,695++,  720,932-- )
