@@ -1,12 +1,10 @@
-<table width="100%">
-  <tr>
-    <td width="56" align="center"><img width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png"></td>
-    <td></td>
-    <td width="56" align="center"><img width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png"></td>
-  </tr>
-</table>
+<div>
+<img align="left" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="right" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+  <br clear="both">
+</div>
 
-
+<br clear="both">
 <div align="center">
 
 <a href="https://github.com/jxc2000-b/jxc2000-b"><img alt="jxc2000-b@github — neofetch" src="usr_card.svg"></a>
