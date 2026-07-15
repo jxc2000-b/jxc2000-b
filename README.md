@@ -1,9 +1,11 @@
-<table align="center">
+<table width="100%">
   <tr>
-    <td valign="top"><img width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png"></td>
-    <td valign="top"><img width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png"></td>
+    <td width="56" align="center"><img width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png"></td>
+    <td></td>
+    <td width="56" align="center"><img width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png"></td>
   </tr>
 </table>
+
 
 <div align="center">
 
