@@ -10,5 +10,5 @@
 <a href="https://github.com/jxc2000-b/jxc2000-b"><img alt="jxc2000-b@github — neofetch" src="usr_card.svg"></a>
 
 <kbd>↑</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>B</kbd> <kbd>A</kbd>
-
+<a href="https://youtu.be/WJUcNYjrhck?si=U1ChUPj88yVLHeVq"><img alt="🚨 Every single developer needs to watch this!"></a>
 </div>
