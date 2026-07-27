@@ -1,6 +1,21 @@
-<div>
-<img align="left" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
-<img align="right" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<div align="center">
+  <img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+  <img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+  
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+<img align="center" width="56" alt="🇺🇸" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f1fa-1f1f8.png">
+  
   <br clear="both">
 </div>
 
