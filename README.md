@@ -13,7 +13,7 @@
 <br clear="both">
 <div align="center">
 
-<a href="https://github.com/jxc2000-b/jxc2000-b"><img alt="jxc2000-b@github — neofetch" src="usr_card.svg"></a>
+<!-- <a href="https://github.com/jxc2000-b/jxc2000-b"><img alt="jxc2000-b@github — neofetch" src="usr_card.svg"></a> -->
 
 <kbd>↓</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>↓</kbd> 
 <br clear="both">
