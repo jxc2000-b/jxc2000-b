@@ -60,52 +60,48 @@ text { white-space: pre; }
 <ellipse cx="980" cy="341" rx="320" ry="301" fill="url(#glowp)"/>
 </g>
 <text class="art" x="32" y="143">
-<tspan x="32" y="143">                                                                     =--+++*#%@@</tspan>
-<tspan x="32" y="158">                                                                   *-.:-++*#%@@%*</tspan>
-<tspan x="32" y="173">                                                                  *:.-=++*#%@@%%</tspan>
-<tspan x="32" y="188">                                                               #+::-=+=+*#%@##</tspan>
-<tspan x="32" y="203">                                                             @@*::=++**#%%@@</tspan>
-<tspan x="32" y="218">                                                           @%#=::=++*#%%@@</tspan>
-<tspan x="32" y="233">              *#*--+=**#                               @%%%#:::=++#%%%@@</tspan>
-<tspan x="32" y="248">            ###*+++++++++*%                        =+*+-:--====*#%%%%@</tspan>
-<tspan x="32" y="263">          ***************+++#                    *==-=+*###++**#%@#+</tspan>
-<tspan x="32" y="278">         +*##%%#*++*####**=:+#         @%#+=+*=+*%=:+###++=--==+*+</tspan>
-<tspan x="32" y="293">        ##%%%%*+%%%@@@@%%###%  **#++*++*===::...+===++++========:::::.::.............::=*@</tspan>
-<tspan x="32" y="308">       @##%%%#+#%%@@@@@@%%#-   =+######=-.+#+--*==+=======-=--=-:.---=--------------+*-*%#</tspan>
-<tspan x="32" y="323">      %%#%%@@@@@%%%%@@@@@%%#+::         #-:%%@@%+=--=%@  %#**%@%#*+==-::.------------+*%%%</tspan>
-<tspan x="32" y="338">    #####%%@@@@@@@@@@@@@@@%%#*=--       =-:::-*%%====##@@#%+==@@  @@%%##*++==-:::...:-*%%@</tspan>
-<tspan x="32" y="353">    ##########%%%@@@@@@@@@@@%#+:=    :.+=-:%@@@ ++++#@    *+==%        ##%###**+++===+#%%</tspan>
-<tspan x="32" y="368">   ##%%%#%%%%%%%######%@@@@@%+:.   ====+*#%@#= .*++#@     *+=+    *@@       *%%%###***##@</tspan>
-<tspan x="32" y="383">   %%@@%@@@@@@@@%%%##***####*=+   **++*%@@@@  .-*#%@            .+*-.   .       %%%%%#=%</tspan>
-<tspan x="32" y="398">   %@@@@@@@@@@@@@@@@@%%###*++++++***#%@@@@%  ..-*#%          :-+#%@%%%@@%           %#@@</tspan>
-<tspan x="32" y="413">  #@@@@@@@@@@@@@@@@@@@@%%##*****###%@@@@@               +++*##%@@@@@@@@</tspan>
-<tspan x="32" y="428">  #@@@@@@@@@@@@@@@@@@@@@@@@%%%##*****##*+++++****####%%%%%@@@@@@@@@</tspan>
-<tspan x="32" y="443"> *%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#****#####%%%%@%@%%@@@@@@@@@@@@@</tspan>
-<tspan x="32" y="458"> *%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="32" y="473">+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="32" y="488">*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="32" y="503">*#@@@@@@@@@@@@@@@@@@@@@@@@%#@@%%@@@@@@@@@@@@@@</tspan>
-<tspan x="32" y="518">*%@@@@@@@@@@@@@@@@@@@@@@@@*+</tspan>
-<tspan x="32" y="533">*%@@@@@@@@@@@@@@@@@@@@@@@#</tspan>
-<tspan x="32" y="548">#@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="100" y="143">                   ▄</tspan>
+<tspan x="100" y="158">                  ▟█▙</tspan>
+<tspan x="100" y="173">                 ▟███▙</tspan>
+<tspan x="100" y="188">                ▟█████▙</tspan>
+<tspan x="100" y="203">               ▟███████▙</tspan>
+<tspan x="100" y="218">              ▂▔▀▜██████▙</tspan>
+<tspan x="100" y="233">             ▟██▅▂▝▜█████▙</tspan>
+<tspan x="100" y="248">            ▟█████████████▙</tspan>
+<tspan x="100" y="263">           ▟███████████████▙</tspan>
+<tspan x="100" y="278">          ▟█████████████████▙</tspan>
+<tspan x="100" y="293">         ▟███████████████████▙</tspan>
+<tspan x="100" y="308">        ▟█████████▛▀▀▜████████▙</tspan>
+<tspan x="100" y="323">       ▟████████▛      ▜███████▙</tspan>
+<tspan x="100" y="338">      ▟█████████        ████████▙</tspan>
+<tspan x="100" y="353">     ▟██████████        █████▆▅▄▃▂</tspan>
+<tspan x="100" y="368">    ▟██████████▛        ▜█████████▙</tspan>
+<tspan x="100" y="383">   ▟██████▀▀▀              ▀▀██████▙</tspan>
+<tspan x="100" y="398">  ▟███▀▘                       ▝▀███▙</tspan>
+<tspan x="100" y="413"> ▟▛▀                               ▀▜▙</tspan>
+<tspan x="100" y="428">                                        </tspan>
+<tspan x="100" y="443">     *`                         `*   </tspan>
 </text>
+
 <text class="line" x="720" y="74" fill="#1793D1" style="animation-delay:0.15s;animation-duration:0.18s;animation-timing-function:steps(60)">jxc2000-b@github -------------------------------------------</text>
 <text class="line" x="720" y="94" fill="#3fb950" style="animation-delay:0.35s;animation-duration:0.09s;animation-timing-function:steps(29)"><tspan class="cc">. </tspan><tspan class="key">Status</tspan>:    running (stable)</text>
 <text class="line" x="720" y="114" fill="#3fb950" style="animation-delay:0.45s;animation-duration:0.11s;animation-timing-function:steps(39)"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>: macOS 26.3.1(a), ubuntu 26.04 LTS</text>
 <text class="line" x="720" y="134" fill="#3fb950" style="animation-delay:0.59s;animation-duration:0.11s;animation-timing-function:steps(38)"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>: darwin kernel version 25.3.0</text>
 <text class="line" x="720" y="154" fill="#3fb950" style="animation-delay:0.72s;animation-duration:0.08s;animation-timing-function:steps(26)"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>: vim, vscode 1.280.0</text>
-<text class="line" x="720" y="174" fill="#3fb950" style="animation-delay:0.81s;animation-duration:0.15s;animation-timing-function:steps(51)"><tspan class="cc">. </tspan><tspan class="key">Agents</tspan>: claude code 2.1.210, hermes agent v0.18.2</text>
-<text class="line" x="720" y="194" fill="#3fb950" style="animation-delay:0.98s;animation-duration:0.05s;animation-timing-function:steps(2)"><tspan class="cc">. </tspan></text>
-<text class="line" x="720" y="214" fill="#3fb950" style="animation-delay:1.05s;animation-duration:0.17s;animation-timing-function:steps(57)"><tspan class="cc">. </tspan><tspan class="key">Dev</tspan>.<tspan class="key">Programming</tspan>: go, python, typeScript, SQL, swift, bash, C</text>
+<!-- <text class="line" x="720" y="174" fill="#3fb950" style="animation-delay:0.81s;animation-duration:0.15s;animation-timing-function:steps(51)"><tspan class="cc">. </tspan><tspan class="key">Agents</tspan>: claude code 2.1.210, hermes agent v0.18.2</text> -->
+<text class="line" x="720" y="194" fill="#1793D1" style="animation-delay:0.98s;animation-duration:0.05s;animation-timing-function:steps(60)">- Skills-------------------------------------------<tspan class="cc">. </tspan></text>
+<text class="line" x="720" y="214" fill="#3fb950" style="animation-delay:1.05s;animation-duration:0.17s;animation-timing-function:steps(57)"><tspan class="cc">. </tspan><tspan class="key">Dev</tspan>.<tspan class="key">Programming</tspan>: swift, go, python, typeScript, SQL, bash, C</text>
 <text class="line" x="720" y="234" fill="#3fb950" style="animation-delay:1.24s;animation-duration:0.14s;animation-timing-function:steps(48)"><tspan class="cc">. </tspan><tspan class="key">Dev</tspan>.<tspan class="key">Frameworks</tspan>: react.js, next.js, </text>
-<text class="line" x="720" y="254" fill="#3fb950" style="animation-delay:1.40s;animation-duration:0.12s;animation-timing-function:steps(41)"><tspan class="cc">. </tspan><tspan class="key">Dev</tspan>.<tspan class="key">Tooling</tspan>: kubernetes</text>
+<text class="line" x="720" y="254" fill="#3fb950" style="animation-delay:1.40s;animation-duration:0.12s;animation-timing-function:steps(41)"><tspan class="cc">. </tspan><tspan class="key">Dev</tspan>.<tspan class="key">Tooling</tspan>: kubernetes, </text>
 <text class="line" x="720" y="274" fill="#3fb950" style="animation-delay:1.54s;animation-duration:0.05s;animation-timing-function:steps(2)"><tspan class="cc">. </tspan></text>
-<text class="line" x="720" y="294" fill="#3fb950" style="animation-delay:1.61s;animation-duration:0.11s;animation-timing-function:steps(38)"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>: blogging, IOS apps</text>
-<text class="line" x="720" y="314" fill="#3fb950" style="animation-delay:1.75s;animation-duration:0.13s;animation-timing-function:steps(45)"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>: homelabbing, pharmacology</text>
-<text class="line" x="720" y="334" fill="#3fb950" style="animation-delay:1.90s;animation-duration:0.18s;animation-timing-function:steps(60)"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Real</tspan>: spaceflight, longevity, giorgio de chirico</text>
+<text class="line" x="720" y="294" fill="#3fb950" style="animation-delay:1.61s;animation-duration:0.11s;animation-timing-function:steps(38)"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>: Web apps, IOS apps</text>
+<text class="line" x="720" y="314" fill="#3fb950" style="animation-delay:1.75s;animation-duration:0.13s;animation-timing-function:steps(45)"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hobbbies</tspan>: </text>
+<text class="line" x="720" y="334" fill="#3fb950" style="animation-delay:1.90s;animation-duration:0.18s;animation-timing-function:steps(60)"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Interest</tspan>: spaceflight, longevity, geo-engineering, pharmacology</text>
+<text class="line" x="720" y="334" fill="#3fb950" style="animation-delay:2.05s;animation-duration:0.24s;animation-timing-function:steps(78)"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Art</tspan>: giorgio de chirico, Henri Rousseau, Jean Delville</text>
+
 <text class="line" x="720" y="354" fill="#3fb950" style="animation-delay:2.09s;animation-duration:0.05s;animation-timing-function:steps(2)"><tspan class="cc">. </tspan></text>
 <text class="line" x="720" y="394" fill="#1793D1" style="animation-delay:2.16s;animation-duration:0.18s;animation-timing-function:steps(60)">- Contact --------------------------------------------------</text>
-<text class="line" x="720" y="414" fill="#3fb950" style="animation-delay:2.36s;animation-duration:0.14s;animation-timing-function:steps(47)"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>: bismuth-bungees.8d@icloud.com</text>
+<text class="line" x="720" y="414" fill="#3fb950" style="animation-delay:2.36s;animation-duration:0.14s;animation-timing-function:steps(47)"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal Relay</tspan>: bismuth-bungees.8d@icloud.com</text>
 <text class="line" x="720" y="434" fill="#3fb950" style="animation-delay:2.52s;animation-duration:0.19s;animation-timing-function:steps(65)"><tspan class="cc">. </tspan><tspan class="key">PGP</tspan>: xjMEalgL9hYJKwYBBAHaRw8BAQdAJnYDO3trCUqGf7cdORAo/bNZRRz<tspan class="cc">...</tspan></text>
 <text class="line" x="720" y="454" fill="#3fb950" style="animation-delay:2.73s;animation-duration:0.05s;animation-timing-function:steps(2)"><tspan class="cc">. </tspan></text>
 <text class="line" x="720" y="494" fill="#1793D1" style="animation-delay:2.80s;animation-duration:0.18s;animation-timing-function:steps(60)">- GitHub Stats ---------------------------------------------</text>
