@@ -19,7 +19,6 @@
 <br clear="both">
 <br clear="both">
 <br clear="both">
-<a href="https://youtu.be/WJUcNYjrhck?si=U1ChUPj88yVLHeVq">🚨 Every single developer needs to watch this!</a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=jxc2000-b&style=pixel)
